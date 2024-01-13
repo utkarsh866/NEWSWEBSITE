@@ -1,3 +1,2 @@
 # NEWSWEBSITE
-OPEN NEWS WEBSITE BY THIS LINK :
-http://127.0.0.1:5500/index.html
+OPEN PREVIEW VIDEO OF THIS WEBSITE-"https://www.veed.io/view/7f221705-1c63-4a53-870a-53d97fb64f8b?panel=share"
